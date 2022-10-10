@@ -1,2 +1,1 @@
-# atharvsathe.github.io
-My website
+# sathe-atharv.github.io

@@ -1,0 +1,10 @@
+remote_theme: pages-themes/minimal@v0.2.0
+
+title: Atharv Sathe
+description: I am a firmware engineer at Alcon contibuting to next generation of digital microscopes for opthalmology.
+
+logo: /assets/img/profile.jpg
+
+google_analytics: 331623125
+
+is_user_page: true
