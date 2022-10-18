@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: work
 is_user_page: fasle
 is_work_page: true
 is_project_page: false
